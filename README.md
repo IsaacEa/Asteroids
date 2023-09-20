@@ -21,5 +21,7 @@ With the following code, each object can have a certain number of health and be 
 
 
 ![health1](https://github.com/IsaacEa/Asteroids/assets/145556558/36dad922-685b-44b7-a20f-485c1bbcc0e3)
+
 ![health2](https://github.com/IsaacEa/Asteroids/assets/145556558/eece40e5-0940-40d0-b2c7-aefb8bb6a530)
+
 ![health3](https://github.com/IsaacEa/Asteroids/assets/145556558/ac5b2da9-4917-438f-9b2e-a32c59ec2adb)
