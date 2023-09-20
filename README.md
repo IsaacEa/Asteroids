@@ -18,8 +18,6 @@ And the UFO Spawner
 With the following code, each object can have a certain number of health and be destroyed when this number reaches 0.
 
 
-
-
 ![health1](https://github.com/IsaacEa/Asteroids/assets/145556558/36dad922-685b-44b7-a20f-485c1bbcc0e3)
 
 ![health2](https://github.com/IsaacEa/Asteroids/assets/145556558/eece40e5-0940-40d0-b2c7-aefb8bb6a530)
